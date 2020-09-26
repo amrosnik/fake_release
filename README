@@ -1,0 +1,14 @@
+This repo is a stand-in repo for using the release-it package: https://github.com/release-it/release-it 
+I am creating a separate repo with dummy files to test the basic mechanics of release-it 
+without potentially harming my professional codebases. 
+
+## Goals for this work: ##
+1. Understand how release-it works, especially with respect to how it creates Git tags
+2. Successfully produce "releases" 
+3. Configure any options I may need to change for my professional codebases
+
+## Stretch goals ## 
+1. Create a bash script to automate the update of version numbers and dates in DESCRIPTION files, 
+files used in R packages to save metadata: https://r-pkgs.org/description.html
+2. Create a script to automate deleting git branches that have last been updated a fixed amount in the past, 
+EXCEPT for branches on an exception list. 
