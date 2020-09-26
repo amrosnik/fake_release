@@ -1,0 +1,9 @@
+Package: fake_release
+Type: wut
+Title: Dummy repo for testing out release-it
+Version: 0.0.0
+Date: 2020-09-25
+Authors@R: c(
+    person("Andreana", "Rosnik", email = "amrosnik@gmail.com", role = c("ctb")))
+Description: fake_release is a repo of text files to test the basic functionality of the releaseit package for CI/CD.  
+URL: https://github.com/amrosnik/fake_release
